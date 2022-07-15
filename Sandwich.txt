@@ -3,3 +3,7 @@ tomato
 onion
 chillies
 scrambled egg
+
+jingli
+mingli
+pingli

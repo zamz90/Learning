@@ -1,5 +1,10 @@
-chicken breast
-yogurt
-salt
-chilli powder
-masala powder
+chicken salad
+git status
+Yes
+q
+
+q
+Q
+status
+
+q
